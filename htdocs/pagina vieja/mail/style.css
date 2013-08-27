@@ -1,0 +1,42 @@
+body{
+	background: #E7E7DC;
+	font-size: 13px;
+	font-family: arial;
+}
+#wrap{
+	width: 800px;
+	background: white;
+	margin: auto;
+	padding: 10px;
+}
+#wrap h1{
+	padding: 10px;
+	border: 1px solid #ccc;
+	background: #f8f8f8;
+}
+.mail{
+	width:500px;
+	margin:auto;
+}
+#formail{
+	width: 500px;
+	margin: auto;
+}
+#formail label{
+	display: block;
+	margin: 10px 0;
+}
+#text{
+	background: #f8f8f8;
+}
+#sendmail{
+	margin-top: 20px;
+	display: block;
+}
+#response{
+	display: none;
+	border: 1px solid #ccc;
+	background: #FFFFA0;
+	padding: 10px;
+	width: 450px;
+}
